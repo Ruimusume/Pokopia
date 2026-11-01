@@ -1,7 +1,7 @@
 # Pokopia Database
 ![Github latest downloads](https://img.shields.io/github/downloads/Ruimusume/Pokopia/total.svg)
 
-This is a complete item IDs for Pokopia. 
+This is a complete item ID for Pokopia. 
 
 Currently it can only be run on the [Eden](https://git.eden-emu.dev/Takoroka/eden-nx2/releases). 
 
