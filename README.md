@@ -3,7 +3,7 @@
 
 This is a complete item ID for Pokopia. 
 
-Currently it can only be run on the [Eden](https://git.eden-emu.dev/Takoroka/eden-nx2/releases). 
+Currently it can only be run on the [PokeDinner-a-Eglantine](https://git.eden-emu.dev/Franseven/PokeDinner-a-Eglantine-Fork/releases). 
 
 You can use [Cheat Engine](https://www.cheatengine.org/downloads.php) to search for and locate the existing items and quantities in the game to modify them.
 
